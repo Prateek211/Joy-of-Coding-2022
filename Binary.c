@@ -1,3 +1,4 @@
+//Count the number of ones from a binary format of a decimal number
 #include<stdio.h>
 #include<stdlib.h>
 

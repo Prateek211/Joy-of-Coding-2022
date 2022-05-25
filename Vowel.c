@@ -1,3 +1,4 @@
+//Separating vowels and consonants from a sentence
 #include<stdio.h>
 #include<stdlib.h>
 
